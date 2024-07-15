@@ -6,7 +6,7 @@ ASYNC can download MULTIPLE files at once, but you need this 2 library:
 
 https://github.com/me-no-dev/ESPAsyncWebServer
 
-https://github.com/me-no-dev/ESPAsyncTCP
+https://github.com/me-no-dev/AsyncTCP
 
 you need to rename the file after download to extension of the original file. normal webserver already correct this but you CANNOT DOWNLOAD multiple files at once!
 
