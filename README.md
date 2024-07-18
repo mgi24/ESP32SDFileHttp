@@ -1,7 +1,10 @@
-This project make your ESP32 read files on sdcard /root and display it on webserver then you can click to download the file!
-![image](https://github.com/user-attachments/assets/c12d6e5e-a9bf-463c-b9cc-dc66c985ab3c)
+This project make your ESP32 read files on sdcard /root and display it on webserver then you can click to download / delete / upload the file!
+![image](https://github.com/user-attachments/assets/42596fc5-6725-4608-9d44-db059715d6fb)
+
+![image](https://github.com/user-attachments/assets/a06c79d2-89e5-442c-89b0-9142c520cabc)
 
 
+Please just use ASYNC Version, its up to 5Times faster!
 ASYNC can download MULTIPLE files at once, but you need this 2 library:
 
 https://github.com/me-no-dev/ESPAsyncWebServer
